@@ -1,6 +1,9 @@
-# SauceTest
+# Phoenix JSON-API
 
-Install Elixir / Phoenix
+This Phoenix project is a simple JSON-API back end application that handles
+a list of Companies and their employees.
+
+## Install Elixir / Phoenix
 
 - Follow guide here - [`https://elixir-lang.org/install.html`](https://elixir-lang.org/install.html)
 
@@ -23,6 +26,7 @@ If you don't already have any data, you can run the seeds.
 - Docs: https://hexdocs.pm/phoenix
 - Forum: https://elixirforum.com/c/phoenix-forum
 - Source: https://github.com/phoenixframework/phoenix
+- JSON-API Spec: https://jsonapi.org/
 
 ## API calls (Curl)
 
